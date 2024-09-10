@@ -1,5 +1,5 @@
 # Power BI Dashboard Project
-
+https://app.powerbi.com/view?r=eyJrIjoiZGQwMmRiNWMtZGEzMi00Yjk0LWI5ZTItOWNiY2MyMDQ5NzAzIiwidCI6IjlmOGI0MjY0LWE0OGUtNDgyMy1hMGUxLWZjMjU5MGI5MTM5NyIsImMiOjl9
 ## Overview
 
 This project focuses on creating a comprehensive and interactive Power BI dashboard to analyze key business metrics such as sales, profit, discounts, and geographical performance. The dashboard is designed to provide insights into business performance across multiple dimensions, including time, product segments, and geographical regions.
